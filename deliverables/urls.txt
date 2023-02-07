@@ -1,0 +1,14 @@
+SECTION 2   
+# A public git repository with your project code.
+URL01=https://github.com/elmeulski/cdond-c3-projectstarter
+
+# Evidence of deployed and functioning front-end application in an S3 bucket [URL02] and in CloudFront [URL03]
+URL02=****
+URL03=****
+
+# Evidence of healthy back-end application [URL04]
+URL04=****
+
+SECTION 3   
+# Evidence of Prometheus Server [URL05]
+URL05=****
